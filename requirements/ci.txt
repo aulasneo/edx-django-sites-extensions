@@ -50,7 +50,7 @@ tomli-w==1.2.0
     # via
     #   -r requirements/tox.txt
     #   tox
-tox==4.55.1
+tox==4.56.1
     # via -r requirements/tox.txt
 virtualenv==21.5.1
     # via
